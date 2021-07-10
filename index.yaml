@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-10T13:07:26.742775422Z"
+    description: A Helm chart for Kubernetes
+    digest: cdafd7aa9e43ed78c44559ea38c9f9dcc2701a33589a00702b90237f51523f41
+    name: java-web-app
+    type: application
+    urls:
+    - https://rocknrolab.github.io/anilhelm/java-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-10T13:07:26.741408713Z"
